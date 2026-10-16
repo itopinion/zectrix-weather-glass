@@ -1,0 +1,178 @@
+{
+  "clear": [
+    1000
+  ],
+  "partly_cloudy": [
+    1003
+  ],
+  "cloudy": [
+    1006
+  ],
+  "overcast": [
+    1009
+  ],
+  "haze": [
+    1012
+  ],
+  "dust_haze": [
+    1015
+  ],
+  "blowing_dust": [
+    1018
+  ],
+  "dust_storm": [
+    1021
+  ],
+  "sandstorm": [
+    1024
+  ],
+  "severe_sandstorm": [
+    1027
+  ],
+  "mist": [
+    1030
+  ],
+  "smoke": [
+    1033
+  ],
+  "smoky_haze": [
+    1036
+  ],
+  "smog": [
+    1039
+  ],
+  "severe_smog": [
+    1042
+  ],
+  "saharan_dust": [
+    1045
+  ],
+  "dust": [
+    1048
+  ],
+  "patchy_rain": [
+    1063,
+    1180
+  ],
+  "patchy_snow": [
+    1066,
+    1210
+  ],
+  "patchy_sleet": [
+    1069
+  ],
+  "patchy_freezing_drizzle": [
+    1072
+  ],
+  "thunder": [
+    1087
+  ],
+  "blowing_snow": [
+    1114
+  ],
+  "blizzard": [
+    1117
+  ],
+  "fog": [
+    1135
+  ],
+  "freezing_fog": [
+    1147
+  ],
+  "patchy_drizzle": [
+    1150
+  ],
+  "drizzle": [
+    1153
+  ],
+  "freezing_drizzle": [
+    1168
+  ],
+  "heavy_freezing_drizzle": [
+    1171
+  ],
+  "light_rain": [
+    1183
+  ],
+  "patchy_moderate_rain": [
+    1186
+  ],
+  "moderate_rain": [
+    1189
+  ],
+  "patchy_heavy_rain": [
+    1192
+  ],
+  "heavy_rain": [
+    1195
+  ],
+  "light_freezing_rain": [
+    1198
+  ],
+  "heavy_freezing_rain": [
+    1201
+  ],
+  "light_sleet": [
+    1204
+  ],
+  "heavy_sleet": [
+    1207
+  ],
+  "light_snow": [
+    1213
+  ],
+  "patchy_moderate_snow": [
+    1216
+  ],
+  "moderate_snow": [
+    1219
+  ],
+  "patchy_heavy_snow": [
+    1222
+  ],
+  "heavy_snow": [
+    1225
+  ],
+  "ice_pellets": [
+    1237
+  ],
+  "rain_showers": [
+    1240
+  ],
+  "heavy_rain_showers": [
+    1243
+  ],
+  "torrential_rain": [
+    1246
+  ],
+  "sleet_showers": [
+    1249
+  ],
+  "heavy_sleet_showers": [
+    1252
+  ],
+  "snow_showers": [
+    1255
+  ],
+  "heavy_snow_showers": [
+    1258
+  ],
+  "ice_showers": [
+    1261
+  ],
+  "heavy_ice_showers": [
+    1264
+  ],
+  "patchy_thunder_rain": [
+    1273
+  ],
+  "heavy_thunder_rain": [
+    1276
+  ],
+  "patchy_thunder_snow": [
+    1279
+  ],
+  "heavy_thunder_snow": [
+    1282
+  ]
+}

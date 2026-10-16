@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+settings.json
+cache/
+runtime/
+.DS_Store
+*.zip
+
+# Rebuild these exports with tools/build_assets.py
+preview/*-day-*.png
+preview/*-night-*.png
+preview/overview-*.jpg
+assets/icons/32/
+assets/icons/48/
+assets/icons/96/
+screen*.png

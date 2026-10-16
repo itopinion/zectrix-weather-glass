@@ -1,0 +1,1466 @@
+[
+  {
+    "id": "1000-day",
+    "code": 1000,
+    "phase": "day",
+    "featured": true,
+    "zh": "晴",
+    "en": "Sunny",
+    "images": {
+      "zh": "preview/1000-day-zh.png",
+      "en": "preview/1000-day-en.png"
+    }
+  },
+  {
+    "id": "1000-night",
+    "code": 1000,
+    "phase": "night",
+    "featured": true,
+    "zh": "晴夜",
+    "en": "Clear",
+    "images": {
+      "zh": "preview/1000-night-zh.png",
+      "en": "preview/1000-night-en.png"
+    }
+  },
+  {
+    "id": "1003-day",
+    "code": 1003,
+    "phase": "day",
+    "featured": true,
+    "zh": "多云",
+    "en": "Partly cloudy",
+    "images": {
+      "zh": "preview/1003-day-zh.png",
+      "en": "preview/1003-day-en.png"
+    }
+  },
+  {
+    "id": "1003-night",
+    "code": 1003,
+    "phase": "night",
+    "featured": true,
+    "zh": "多云",
+    "en": "Partly cloudy",
+    "images": {
+      "zh": "preview/1003-night-zh.png",
+      "en": "preview/1003-night-en.png"
+    }
+  },
+  {
+    "id": "1006-day",
+    "code": 1006,
+    "phase": "day",
+    "featured": false,
+    "zh": "阴云",
+    "en": "Cloudy",
+    "images": {
+      "zh": "preview/1006-day-zh.png",
+      "en": "preview/1006-day-en.png"
+    }
+  },
+  {
+    "id": "1006-night",
+    "code": 1006,
+    "phase": "night",
+    "featured": false,
+    "zh": "阴云",
+    "en": "Cloudy",
+    "images": {
+      "zh": "preview/1006-night-zh.png",
+      "en": "preview/1006-night-en.png"
+    }
+  },
+  {
+    "id": "1009-day",
+    "code": 1009,
+    "phase": "day",
+    "featured": true,
+    "zh": "阴天",
+    "en": "Overcast",
+    "images": {
+      "zh": "preview/1009-day-zh.png",
+      "en": "preview/1009-day-en.png"
+    }
+  },
+  {
+    "id": "1009-night",
+    "code": 1009,
+    "phase": "night",
+    "featured": true,
+    "zh": "阴天",
+    "en": "Overcast",
+    "images": {
+      "zh": "preview/1009-night-zh.png",
+      "en": "preview/1009-night-en.png"
+    }
+  },
+  {
+    "id": "1012-day",
+    "code": 1012,
+    "phase": "day",
+    "featured": true,
+    "zh": "霾",
+    "en": "Haze",
+    "images": {
+      "zh": "preview/1012-day-zh.png",
+      "en": "preview/1012-day-en.png"
+    }
+  },
+  {
+    "id": "1012-night",
+    "code": 1012,
+    "phase": "night",
+    "featured": true,
+    "zh": "霾",
+    "en": "Haze",
+    "images": {
+      "zh": "preview/1012-night-zh.png",
+      "en": "preview/1012-night-en.png"
+    }
+  },
+  {
+    "id": "1015-day",
+    "code": 1015,
+    "phase": "day",
+    "featured": false,
+    "zh": "浮尘",
+    "en": "Dust haze",
+    "images": {
+      "zh": "preview/1015-day-zh.png",
+      "en": "preview/1015-day-en.png"
+    }
+  },
+  {
+    "id": "1015-night",
+    "code": 1015,
+    "phase": "night",
+    "featured": false,
+    "zh": "浮尘",
+    "en": "Dust haze",
+    "images": {
+      "zh": "preview/1015-night-zh.png",
+      "en": "preview/1015-night-en.png"
+    }
+  },
+  {
+    "id": "1018-day",
+    "code": 1018,
+    "phase": "day",
+    "featured": false,
+    "zh": "扬尘",
+    "en": "Blowing dust",
+    "images": {
+      "zh": "preview/1018-day-zh.png",
+      "en": "preview/1018-day-en.png"
+    }
+  },
+  {
+    "id": "1018-night",
+    "code": 1018,
+    "phase": "night",
+    "featured": false,
+    "zh": "扬尘",
+    "en": "Blowing dust",
+    "images": {
+      "zh": "preview/1018-night-zh.png",
+      "en": "preview/1018-night-en.png"
+    }
+  },
+  {
+    "id": "1021-day",
+    "code": 1021,
+    "phase": "day",
+    "featured": false,
+    "zh": "尘暴",
+    "en": "Dust storm",
+    "images": {
+      "zh": "preview/1021-day-zh.png",
+      "en": "preview/1021-day-en.png"
+    }
+  },
+  {
+    "id": "1021-night",
+    "code": 1021,
+    "phase": "night",
+    "featured": false,
+    "zh": "尘暴",
+    "en": "Dust storm",
+    "images": {
+      "zh": "preview/1021-night-zh.png",
+      "en": "preview/1021-night-en.png"
+    }
+  },
+  {
+    "id": "1024-day",
+    "code": 1024,
+    "phase": "day",
+    "featured": true,
+    "zh": "沙尘暴",
+    "en": "Sandstorm",
+    "images": {
+      "zh": "preview/1024-day-zh.png",
+      "en": "preview/1024-day-en.png"
+    }
+  },
+  {
+    "id": "1024-night",
+    "code": 1024,
+    "phase": "night",
+    "featured": true,
+    "zh": "沙尘暴",
+    "en": "Sandstorm",
+    "images": {
+      "zh": "preview/1024-night-zh.png",
+      "en": "preview/1024-night-en.png"
+    }
+  },
+  {
+    "id": "1027-day",
+    "code": 1027,
+    "phase": "day",
+    "featured": false,
+    "zh": "强沙尘暴",
+    "en": "Severe sandstorm",
+    "images": {
+      "zh": "preview/1027-day-zh.png",
+      "en": "preview/1027-day-en.png"
+    }
+  },
+  {
+    "id": "1027-night",
+    "code": 1027,
+    "phase": "night",
+    "featured": false,
+    "zh": "强沙尘暴",
+    "en": "Severe sandstorm",
+    "images": {
+      "zh": "preview/1027-night-zh.png",
+      "en": "preview/1027-night-en.png"
+    }
+  },
+  {
+    "id": "1030-day",
+    "code": 1030,
+    "phase": "day",
+    "featured": false,
+    "zh": "薄雾",
+    "en": "Mist",
+    "images": {
+      "zh": "preview/1030-day-zh.png",
+      "en": "preview/1030-day-en.png"
+    }
+  },
+  {
+    "id": "1030-night",
+    "code": 1030,
+    "phase": "night",
+    "featured": false,
+    "zh": "薄雾",
+    "en": "Mist",
+    "images": {
+      "zh": "preview/1030-night-zh.png",
+      "en": "preview/1030-night-en.png"
+    }
+  },
+  {
+    "id": "1033-day",
+    "code": 1033,
+    "phase": "day",
+    "featured": false,
+    "zh": "烟雾",
+    "en": "Smoke",
+    "images": {
+      "zh": "preview/1033-day-zh.png",
+      "en": "preview/1033-day-en.png"
+    }
+  },
+  {
+    "id": "1033-night",
+    "code": 1033,
+    "phase": "night",
+    "featured": false,
+    "zh": "烟雾",
+    "en": "Smoke",
+    "images": {
+      "zh": "preview/1033-night-zh.png",
+      "en": "preview/1033-night-en.png"
+    }
+  },
+  {
+    "id": "1036-day",
+    "code": 1036,
+    "phase": "day",
+    "featured": false,
+    "zh": "烟霾",
+    "en": "Smoky haze",
+    "images": {
+      "zh": "preview/1036-day-zh.png",
+      "en": "preview/1036-day-en.png"
+    }
+  },
+  {
+    "id": "1036-night",
+    "code": 1036,
+    "phase": "night",
+    "featured": false,
+    "zh": "烟霾",
+    "en": "Smoky haze",
+    "images": {
+      "zh": "preview/1036-night-zh.png",
+      "en": "preview/1036-night-en.png"
+    }
+  },
+  {
+    "id": "1039-day",
+    "code": 1039,
+    "phase": "day",
+    "featured": false,
+    "zh": "雾霾",
+    "en": "Smog",
+    "images": {
+      "zh": "preview/1039-day-zh.png",
+      "en": "preview/1039-day-en.png"
+    }
+  },
+  {
+    "id": "1039-night",
+    "code": 1039,
+    "phase": "night",
+    "featured": false,
+    "zh": "雾霾",
+    "en": "Smog",
+    "images": {
+      "zh": "preview/1039-night-zh.png",
+      "en": "preview/1039-night-en.png"
+    }
+  },
+  {
+    "id": "1042-day",
+    "code": 1042,
+    "phase": "day",
+    "featured": false,
+    "zh": "重度雾霾",
+    "en": "Severe smog",
+    "images": {
+      "zh": "preview/1042-day-zh.png",
+      "en": "preview/1042-day-en.png"
+    }
+  },
+  {
+    "id": "1042-night",
+    "code": 1042,
+    "phase": "night",
+    "featured": false,
+    "zh": "重度雾霾",
+    "en": "Severe smog",
+    "images": {
+      "zh": "preview/1042-night-zh.png",
+      "en": "preview/1042-night-en.png"
+    }
+  },
+  {
+    "id": "1045-day",
+    "code": 1045,
+    "phase": "day",
+    "featured": false,
+    "zh": "沙尘",
+    "en": "Saharan dust",
+    "images": {
+      "zh": "preview/1045-day-zh.png",
+      "en": "preview/1045-day-en.png"
+    }
+  },
+  {
+    "id": "1045-night",
+    "code": 1045,
+    "phase": "night",
+    "featured": false,
+    "zh": "沙尘",
+    "en": "Saharan dust",
+    "images": {
+      "zh": "preview/1045-night-zh.png",
+      "en": "preview/1045-night-en.png"
+    }
+  },
+  {
+    "id": "1048-day",
+    "code": 1048,
+    "phase": "day",
+    "featured": false,
+    "zh": "尘埃",
+    "en": "Dust",
+    "images": {
+      "zh": "preview/1048-day-zh.png",
+      "en": "preview/1048-day-en.png"
+    }
+  },
+  {
+    "id": "1048-night",
+    "code": 1048,
+    "phase": "night",
+    "featured": false,
+    "zh": "尘埃",
+    "en": "Dust",
+    "images": {
+      "zh": "preview/1048-night-zh.png",
+      "en": "preview/1048-night-en.png"
+    }
+  },
+  {
+    "id": "1063-day",
+    "code": 1063,
+    "phase": "day",
+    "featured": false,
+    "zh": "局部阵雨",
+    "en": "Patchy rain",
+    "images": {
+      "zh": "preview/1063-day-zh.png",
+      "en": "preview/1063-day-en.png"
+    }
+  },
+  {
+    "id": "1063-night",
+    "code": 1063,
+    "phase": "night",
+    "featured": false,
+    "zh": "局部阵雨",
+    "en": "Patchy rain",
+    "images": {
+      "zh": "preview/1063-night-zh.png",
+      "en": "preview/1063-night-en.png"
+    }
+  },
+  {
+    "id": "1066-day",
+    "code": 1066,
+    "phase": "day",
+    "featured": false,
+    "zh": "局部阵雪",
+    "en": "Patchy snow",
+    "images": {
+      "zh": "preview/1066-day-zh.png",
+      "en": "preview/1066-day-en.png"
+    }
+  },
+  {
+    "id": "1066-night",
+    "code": 1066,
+    "phase": "night",
+    "featured": false,
+    "zh": "局部阵雪",
+    "en": "Patchy snow",
+    "images": {
+      "zh": "preview/1066-night-zh.png",
+      "en": "preview/1066-night-en.png"
+    }
+  },
+  {
+    "id": "1069-day",
+    "code": 1069,
+    "phase": "day",
+    "featured": false,
+    "zh": "局部雨夹雪",
+    "en": "Patchy sleet",
+    "images": {
+      "zh": "preview/1069-day-zh.png",
+      "en": "preview/1069-day-en.png"
+    }
+  },
+  {
+    "id": "1069-night",
+    "code": 1069,
+    "phase": "night",
+    "featured": false,
+    "zh": "局部雨夹雪",
+    "en": "Patchy sleet",
+    "images": {
+      "zh": "preview/1069-night-zh.png",
+      "en": "preview/1069-night-en.png"
+    }
+  },
+  {
+    "id": "1072-day",
+    "code": 1072,
+    "phase": "day",
+    "featured": false,
+    "zh": "局部冻毛雨",
+    "en": "Freezing drizzle",
+    "images": {
+      "zh": "preview/1072-day-zh.png",
+      "en": "preview/1072-day-en.png"
+    }
+  },
+  {
+    "id": "1072-night",
+    "code": 1072,
+    "phase": "night",
+    "featured": false,
+    "zh": "局部冻毛雨",
+    "en": "Freezing drizzle",
+    "images": {
+      "zh": "preview/1072-night-zh.png",
+      "en": "preview/1072-night-en.png"
+    }
+  },
+  {
+    "id": "1087-day",
+    "code": 1087,
+    "phase": "day",
+    "featured": false,
+    "zh": "雷电",
+    "en": "Thunder possible",
+    "images": {
+      "zh": "preview/1087-day-zh.png",
+      "en": "preview/1087-day-en.png"
+    }
+  },
+  {
+    "id": "1087-night",
+    "code": 1087,
+    "phase": "night",
+    "featured": false,
+    "zh": "雷电",
+    "en": "Thunder possible",
+    "images": {
+      "zh": "preview/1087-night-zh.png",
+      "en": "preview/1087-night-en.png"
+    }
+  },
+  {
+    "id": "1114-day",
+    "code": 1114,
+    "phase": "day",
+    "featured": false,
+    "zh": "风雪",
+    "en": "Blowing snow",
+    "images": {
+      "zh": "preview/1114-day-zh.png",
+      "en": "preview/1114-day-en.png"
+    }
+  },
+  {
+    "id": "1114-night",
+    "code": 1114,
+    "phase": "night",
+    "featured": false,
+    "zh": "风雪",
+    "en": "Blowing snow",
+    "images": {
+      "zh": "preview/1114-night-zh.png",
+      "en": "preview/1114-night-en.png"
+    }
+  },
+  {
+    "id": "1117-day",
+    "code": 1117,
+    "phase": "day",
+    "featured": true,
+    "zh": "暴风雪",
+    "en": "Blizzard",
+    "images": {
+      "zh": "preview/1117-day-zh.png",
+      "en": "preview/1117-day-en.png"
+    }
+  },
+  {
+    "id": "1117-night",
+    "code": 1117,
+    "phase": "night",
+    "featured": true,
+    "zh": "暴风雪",
+    "en": "Blizzard",
+    "images": {
+      "zh": "preview/1117-night-zh.png",
+      "en": "preview/1117-night-en.png"
+    }
+  },
+  {
+    "id": "1135-day",
+    "code": 1135,
+    "phase": "day",
+    "featured": true,
+    "zh": "雾",
+    "en": "Fog",
+    "images": {
+      "zh": "preview/1135-day-zh.png",
+      "en": "preview/1135-day-en.png"
+    }
+  },
+  {
+    "id": "1135-night",
+    "code": 1135,
+    "phase": "night",
+    "featured": true,
+    "zh": "雾",
+    "en": "Fog",
+    "images": {
+      "zh": "preview/1135-night-zh.png",
+      "en": "preview/1135-night-en.png"
+    }
+  },
+  {
+    "id": "1147-day",
+    "code": 1147,
+    "phase": "day",
+    "featured": false,
+    "zh": "冻雾",
+    "en": "Freezing fog",
+    "images": {
+      "zh": "preview/1147-day-zh.png",
+      "en": "preview/1147-day-en.png"
+    }
+  },
+  {
+    "id": "1147-night",
+    "code": 1147,
+    "phase": "night",
+    "featured": false,
+    "zh": "冻雾",
+    "en": "Freezing fog",
+    "images": {
+      "zh": "preview/1147-night-zh.png",
+      "en": "preview/1147-night-en.png"
+    }
+  },
+  {
+    "id": "1150-day",
+    "code": 1150,
+    "phase": "day",
+    "featured": false,
+    "zh": "局部毛毛雨",
+    "en": "Patchy light drizzle",
+    "images": {
+      "zh": "preview/1150-day-zh.png",
+      "en": "preview/1150-day-en.png"
+    }
+  },
+  {
+    "id": "1150-night",
+    "code": 1150,
+    "phase": "night",
+    "featured": false,
+    "zh": "局部毛毛雨",
+    "en": "Patchy light drizzle",
+    "images": {
+      "zh": "preview/1150-night-zh.png",
+      "en": "preview/1150-night-en.png"
+    }
+  },
+  {
+    "id": "1153-day",
+    "code": 1153,
+    "phase": "day",
+    "featured": false,
+    "zh": "毛毛雨",
+    "en": "Light drizzle",
+    "images": {
+      "zh": "preview/1153-day-zh.png",
+      "en": "preview/1153-day-en.png"
+    }
+  },
+  {
+    "id": "1153-night",
+    "code": 1153,
+    "phase": "night",
+    "featured": false,
+    "zh": "毛毛雨",
+    "en": "Light drizzle",
+    "images": {
+      "zh": "preview/1153-night-zh.png",
+      "en": "preview/1153-night-en.png"
+    }
+  },
+  {
+    "id": "1168-day",
+    "code": 1168,
+    "phase": "day",
+    "featured": false,
+    "zh": "冻毛毛雨",
+    "en": "Freezing drizzle",
+    "images": {
+      "zh": "preview/1168-day-zh.png",
+      "en": "preview/1168-day-en.png"
+    }
+  },
+  {
+    "id": "1168-night",
+    "code": 1168,
+    "phase": "night",
+    "featured": false,
+    "zh": "冻毛毛雨",
+    "en": "Freezing drizzle",
+    "images": {
+      "zh": "preview/1168-night-zh.png",
+      "en": "preview/1168-night-en.png"
+    }
+  },
+  {
+    "id": "1171-day",
+    "code": 1171,
+    "phase": "day",
+    "featured": false,
+    "zh": "强冻毛雨",
+    "en": "Heavy icy drizzle",
+    "images": {
+      "zh": "preview/1171-day-zh.png",
+      "en": "preview/1171-day-en.png"
+    }
+  },
+  {
+    "id": "1171-night",
+    "code": 1171,
+    "phase": "night",
+    "featured": false,
+    "zh": "强冻毛雨",
+    "en": "Heavy icy drizzle",
+    "images": {
+      "zh": "preview/1171-night-zh.png",
+      "en": "preview/1171-night-en.png"
+    }
+  },
+  {
+    "id": "1180-day",
+    "code": 1180,
+    "phase": "day",
+    "featured": false,
+    "zh": "局部小雨",
+    "en": "Patchy light rain",
+    "images": {
+      "zh": "preview/1180-day-zh.png",
+      "en": "preview/1180-day-en.png"
+    }
+  },
+  {
+    "id": "1180-night",
+    "code": 1180,
+    "phase": "night",
+    "featured": false,
+    "zh": "局部小雨",
+    "en": "Patchy light rain",
+    "images": {
+      "zh": "preview/1180-night-zh.png",
+      "en": "preview/1180-night-en.png"
+    }
+  },
+  {
+    "id": "1183-day",
+    "code": 1183,
+    "phase": "day",
+    "featured": true,
+    "zh": "小雨",
+    "en": "Light rain",
+    "images": {
+      "zh": "preview/1183-day-zh.png",
+      "en": "preview/1183-day-en.png"
+    }
+  },
+  {
+    "id": "1183-night",
+    "code": 1183,
+    "phase": "night",
+    "featured": true,
+    "zh": "小雨",
+    "en": "Light rain",
+    "images": {
+      "zh": "preview/1183-night-zh.png",
+      "en": "preview/1183-night-en.png"
+    }
+  },
+  {
+    "id": "1186-day",
+    "code": 1186,
+    "phase": "day",
+    "featured": false,
+    "zh": "间歇中雨",
+    "en": "Moderate rain",
+    "images": {
+      "zh": "preview/1186-day-zh.png",
+      "en": "preview/1186-day-en.png"
+    }
+  },
+  {
+    "id": "1186-night",
+    "code": 1186,
+    "phase": "night",
+    "featured": false,
+    "zh": "间歇中雨",
+    "en": "Moderate rain",
+    "images": {
+      "zh": "preview/1186-night-zh.png",
+      "en": "preview/1186-night-en.png"
+    }
+  },
+  {
+    "id": "1189-day",
+    "code": 1189,
+    "phase": "day",
+    "featured": false,
+    "zh": "中雨",
+    "en": "Moderate rain",
+    "images": {
+      "zh": "preview/1189-day-zh.png",
+      "en": "preview/1189-day-en.png"
+    }
+  },
+  {
+    "id": "1189-night",
+    "code": 1189,
+    "phase": "night",
+    "featured": false,
+    "zh": "中雨",
+    "en": "Moderate rain",
+    "images": {
+      "zh": "preview/1189-night-zh.png",
+      "en": "preview/1189-night-en.png"
+    }
+  },
+  {
+    "id": "1192-day",
+    "code": 1192,
+    "phase": "day",
+    "featured": false,
+    "zh": "间歇大雨",
+    "en": "Heavy rain",
+    "images": {
+      "zh": "preview/1192-day-zh.png",
+      "en": "preview/1192-day-en.png"
+    }
+  },
+  {
+    "id": "1192-night",
+    "code": 1192,
+    "phase": "night",
+    "featured": false,
+    "zh": "间歇大雨",
+    "en": "Heavy rain",
+    "images": {
+      "zh": "preview/1192-night-zh.png",
+      "en": "preview/1192-night-en.png"
+    }
+  },
+  {
+    "id": "1195-day",
+    "code": 1195,
+    "phase": "day",
+    "featured": true,
+    "zh": "大雨",
+    "en": "Heavy rain",
+    "images": {
+      "zh": "preview/1195-day-zh.png",
+      "en": "preview/1195-day-en.png"
+    }
+  },
+  {
+    "id": "1195-night",
+    "code": 1195,
+    "phase": "night",
+    "featured": true,
+    "zh": "大雨",
+    "en": "Heavy rain",
+    "images": {
+      "zh": "preview/1195-night-zh.png",
+      "en": "preview/1195-night-en.png"
+    }
+  },
+  {
+    "id": "1198-day",
+    "code": 1198,
+    "phase": "day",
+    "featured": true,
+    "zh": "小冻雨",
+    "en": "Light freezing rain",
+    "images": {
+      "zh": "preview/1198-day-zh.png",
+      "en": "preview/1198-day-en.png"
+    }
+  },
+  {
+    "id": "1198-night",
+    "code": 1198,
+    "phase": "night",
+    "featured": true,
+    "zh": "小冻雨",
+    "en": "Light freezing rain",
+    "images": {
+      "zh": "preview/1198-night-zh.png",
+      "en": "preview/1198-night-en.png"
+    }
+  },
+  {
+    "id": "1201-day",
+    "code": 1201,
+    "phase": "day",
+    "featured": false,
+    "zh": "强冻雨",
+    "en": "Heavy icy rain",
+    "images": {
+      "zh": "preview/1201-day-zh.png",
+      "en": "preview/1201-day-en.png"
+    }
+  },
+  {
+    "id": "1201-night",
+    "code": 1201,
+    "phase": "night",
+    "featured": false,
+    "zh": "强冻雨",
+    "en": "Heavy icy rain",
+    "images": {
+      "zh": "preview/1201-night-zh.png",
+      "en": "preview/1201-night-en.png"
+    }
+  },
+  {
+    "id": "1204-day",
+    "code": 1204,
+    "phase": "day",
+    "featured": true,
+    "zh": "小雨夹雪",
+    "en": "Light sleet",
+    "images": {
+      "zh": "preview/1204-day-zh.png",
+      "en": "preview/1204-day-en.png"
+    }
+  },
+  {
+    "id": "1204-night",
+    "code": 1204,
+    "phase": "night",
+    "featured": true,
+    "zh": "小雨夹雪",
+    "en": "Light sleet",
+    "images": {
+      "zh": "preview/1204-night-zh.png",
+      "en": "preview/1204-night-en.png"
+    }
+  },
+  {
+    "id": "1207-day",
+    "code": 1207,
+    "phase": "day",
+    "featured": false,
+    "zh": "强雨夹雪",
+    "en": "Heavy sleet",
+    "images": {
+      "zh": "preview/1207-day-zh.png",
+      "en": "preview/1207-day-en.png"
+    }
+  },
+  {
+    "id": "1207-night",
+    "code": 1207,
+    "phase": "night",
+    "featured": false,
+    "zh": "强雨夹雪",
+    "en": "Heavy sleet",
+    "images": {
+      "zh": "preview/1207-night-zh.png",
+      "en": "preview/1207-night-en.png"
+    }
+  },
+  {
+    "id": "1210-day",
+    "code": 1210,
+    "phase": "day",
+    "featured": false,
+    "zh": "局部小雪",
+    "en": "Patchy light snow",
+    "images": {
+      "zh": "preview/1210-day-zh.png",
+      "en": "preview/1210-day-en.png"
+    }
+  },
+  {
+    "id": "1210-night",
+    "code": 1210,
+    "phase": "night",
+    "featured": false,
+    "zh": "局部小雪",
+    "en": "Patchy light snow",
+    "images": {
+      "zh": "preview/1210-night-zh.png",
+      "en": "preview/1210-night-en.png"
+    }
+  },
+  {
+    "id": "1213-day",
+    "code": 1213,
+    "phase": "day",
+    "featured": true,
+    "zh": "小雪",
+    "en": "Light snow",
+    "images": {
+      "zh": "preview/1213-day-zh.png",
+      "en": "preview/1213-day-en.png"
+    }
+  },
+  {
+    "id": "1213-night",
+    "code": 1213,
+    "phase": "night",
+    "featured": true,
+    "zh": "小雪",
+    "en": "Light snow",
+    "images": {
+      "zh": "preview/1213-night-zh.png",
+      "en": "preview/1213-night-en.png"
+    }
+  },
+  {
+    "id": "1216-day",
+    "code": 1216,
+    "phase": "day",
+    "featured": false,
+    "zh": "局部中雪",
+    "en": "Moderate snow",
+    "images": {
+      "zh": "preview/1216-day-zh.png",
+      "en": "preview/1216-day-en.png"
+    }
+  },
+  {
+    "id": "1216-night",
+    "code": 1216,
+    "phase": "night",
+    "featured": false,
+    "zh": "局部中雪",
+    "en": "Moderate snow",
+    "images": {
+      "zh": "preview/1216-night-zh.png",
+      "en": "preview/1216-night-en.png"
+    }
+  },
+  {
+    "id": "1219-day",
+    "code": 1219,
+    "phase": "day",
+    "featured": false,
+    "zh": "中雪",
+    "en": "Moderate snow",
+    "images": {
+      "zh": "preview/1219-day-zh.png",
+      "en": "preview/1219-day-en.png"
+    }
+  },
+  {
+    "id": "1219-night",
+    "code": 1219,
+    "phase": "night",
+    "featured": false,
+    "zh": "中雪",
+    "en": "Moderate snow",
+    "images": {
+      "zh": "preview/1219-night-zh.png",
+      "en": "preview/1219-night-en.png"
+    }
+  },
+  {
+    "id": "1222-day",
+    "code": 1222,
+    "phase": "day",
+    "featured": false,
+    "zh": "局部大雪",
+    "en": "Heavy snow",
+    "images": {
+      "zh": "preview/1222-day-zh.png",
+      "en": "preview/1222-day-en.png"
+    }
+  },
+  {
+    "id": "1222-night",
+    "code": 1222,
+    "phase": "night",
+    "featured": false,
+    "zh": "局部大雪",
+    "en": "Heavy snow",
+    "images": {
+      "zh": "preview/1222-night-zh.png",
+      "en": "preview/1222-night-en.png"
+    }
+  },
+  {
+    "id": "1225-day",
+    "code": 1225,
+    "phase": "day",
+    "featured": false,
+    "zh": "大雪",
+    "en": "Heavy snow",
+    "images": {
+      "zh": "preview/1225-day-zh.png",
+      "en": "preview/1225-day-en.png"
+    }
+  },
+  {
+    "id": "1225-night",
+    "code": 1225,
+    "phase": "night",
+    "featured": false,
+    "zh": "大雪",
+    "en": "Heavy snow",
+    "images": {
+      "zh": "preview/1225-night-zh.png",
+      "en": "preview/1225-night-en.png"
+    }
+  },
+  {
+    "id": "1237-day",
+    "code": 1237,
+    "phase": "day",
+    "featured": true,
+    "zh": "冰粒",
+    "en": "Ice pellets",
+    "images": {
+      "zh": "preview/1237-day-zh.png",
+      "en": "preview/1237-day-en.png"
+    }
+  },
+  {
+    "id": "1237-night",
+    "code": 1237,
+    "phase": "night",
+    "featured": true,
+    "zh": "冰粒",
+    "en": "Ice pellets",
+    "images": {
+      "zh": "preview/1237-night-zh.png",
+      "en": "preview/1237-night-en.png"
+    }
+  },
+  {
+    "id": "1240-day",
+    "code": 1240,
+    "phase": "day",
+    "featured": false,
+    "zh": "阵雨",
+    "en": "Light rain shower",
+    "images": {
+      "zh": "preview/1240-day-zh.png",
+      "en": "preview/1240-day-en.png"
+    }
+  },
+  {
+    "id": "1240-night",
+    "code": 1240,
+    "phase": "night",
+    "featured": false,
+    "zh": "阵雨",
+    "en": "Light rain shower",
+    "images": {
+      "zh": "preview/1240-night-zh.png",
+      "en": "preview/1240-night-en.png"
+    }
+  },
+  {
+    "id": "1243-day",
+    "code": 1243,
+    "phase": "day",
+    "featured": false,
+    "zh": "强阵雨",
+    "en": "Heavy showers",
+    "images": {
+      "zh": "preview/1243-day-zh.png",
+      "en": "preview/1243-day-en.png"
+    }
+  },
+  {
+    "id": "1243-night",
+    "code": 1243,
+    "phase": "night",
+    "featured": false,
+    "zh": "强阵雨",
+    "en": "Heavy showers",
+    "images": {
+      "zh": "preview/1243-night-zh.png",
+      "en": "preview/1243-night-en.png"
+    }
+  },
+  {
+    "id": "1246-day",
+    "code": 1246,
+    "phase": "day",
+    "featured": false,
+    "zh": "暴雨",
+    "en": "Torrential rain",
+    "images": {
+      "zh": "preview/1246-day-zh.png",
+      "en": "preview/1246-day-en.png"
+    }
+  },
+  {
+    "id": "1246-night",
+    "code": 1246,
+    "phase": "night",
+    "featured": false,
+    "zh": "暴雨",
+    "en": "Torrential rain",
+    "images": {
+      "zh": "preview/1246-night-zh.png",
+      "en": "preview/1246-night-en.png"
+    }
+  },
+  {
+    "id": "1249-day",
+    "code": 1249,
+    "phase": "day",
+    "featured": false,
+    "zh": "阵性雨夹雪",
+    "en": "Light sleet showers",
+    "images": {
+      "zh": "preview/1249-day-zh.png",
+      "en": "preview/1249-day-en.png"
+    }
+  },
+  {
+    "id": "1249-night",
+    "code": 1249,
+    "phase": "night",
+    "featured": false,
+    "zh": "阵性雨夹雪",
+    "en": "Light sleet showers",
+    "images": {
+      "zh": "preview/1249-night-zh.png",
+      "en": "preview/1249-night-en.png"
+    }
+  },
+  {
+    "id": "1252-day",
+    "code": 1252,
+    "phase": "day",
+    "featured": false,
+    "zh": "强阵性雨夹雪",
+    "en": "Heavy sleet",
+    "images": {
+      "zh": "preview/1252-day-zh.png",
+      "en": "preview/1252-day-en.png"
+    }
+  },
+  {
+    "id": "1252-night",
+    "code": 1252,
+    "phase": "night",
+    "featured": false,
+    "zh": "强阵性雨夹雪",
+    "en": "Heavy sleet",
+    "images": {
+      "zh": "preview/1252-night-zh.png",
+      "en": "preview/1252-night-en.png"
+    }
+  },
+  {
+    "id": "1255-day",
+    "code": 1255,
+    "phase": "day",
+    "featured": false,
+    "zh": "阵雪",
+    "en": "Light snow showers",
+    "images": {
+      "zh": "preview/1255-day-zh.png",
+      "en": "preview/1255-day-en.png"
+    }
+  },
+  {
+    "id": "1255-night",
+    "code": 1255,
+    "phase": "night",
+    "featured": false,
+    "zh": "阵雪",
+    "en": "Light snow showers",
+    "images": {
+      "zh": "preview/1255-night-zh.png",
+      "en": "preview/1255-night-en.png"
+    }
+  },
+  {
+    "id": "1258-day",
+    "code": 1258,
+    "phase": "day",
+    "featured": false,
+    "zh": "强阵雪",
+    "en": "Heavy snow",
+    "images": {
+      "zh": "preview/1258-day-zh.png",
+      "en": "preview/1258-day-en.png"
+    }
+  },
+  {
+    "id": "1258-night",
+    "code": 1258,
+    "phase": "night",
+    "featured": false,
+    "zh": "强阵雪",
+    "en": "Heavy snow",
+    "images": {
+      "zh": "preview/1258-night-zh.png",
+      "en": "preview/1258-night-en.png"
+    }
+  },
+  {
+    "id": "1261-day",
+    "code": 1261,
+    "phase": "day",
+    "featured": false,
+    "zh": "阵性冰粒",
+    "en": "Ice showers",
+    "images": {
+      "zh": "preview/1261-day-zh.png",
+      "en": "preview/1261-day-en.png"
+    }
+  },
+  {
+    "id": "1261-night",
+    "code": 1261,
+    "phase": "night",
+    "featured": false,
+    "zh": "阵性冰粒",
+    "en": "Ice showers",
+    "images": {
+      "zh": "preview/1261-night-zh.png",
+      "en": "preview/1261-night-en.png"
+    }
+  },
+  {
+    "id": "1264-day",
+    "code": 1264,
+    "phase": "day",
+    "featured": false,
+    "zh": "强阵性冰粒",
+    "en": "Heavy ice showers",
+    "images": {
+      "zh": "preview/1264-day-zh.png",
+      "en": "preview/1264-day-en.png"
+    }
+  },
+  {
+    "id": "1264-night",
+    "code": 1264,
+    "phase": "night",
+    "featured": false,
+    "zh": "强阵性冰粒",
+    "en": "Heavy ice showers",
+    "images": {
+      "zh": "preview/1264-night-zh.png",
+      "en": "preview/1264-night-en.png"
+    }
+  },
+  {
+    "id": "1273-day",
+    "code": 1273,
+    "phase": "day",
+    "featured": false,
+    "zh": "雷阵雨",
+    "en": "Rain & thunder",
+    "images": {
+      "zh": "preview/1273-day-zh.png",
+      "en": "preview/1273-day-en.png"
+    }
+  },
+  {
+    "id": "1273-night",
+    "code": 1273,
+    "phase": "night",
+    "featured": false,
+    "zh": "雷阵雨",
+    "en": "Rain & thunder",
+    "images": {
+      "zh": "preview/1273-night-zh.png",
+      "en": "preview/1273-night-en.png"
+    }
+  },
+  {
+    "id": "1276-day",
+    "code": 1276,
+    "phase": "day",
+    "featured": true,
+    "zh": "强雷雨",
+    "en": "Heavy thunder rain",
+    "images": {
+      "zh": "preview/1276-day-zh.png",
+      "en": "preview/1276-day-en.png"
+    }
+  },
+  {
+    "id": "1276-night",
+    "code": 1276,
+    "phase": "night",
+    "featured": true,
+    "zh": "强雷雨",
+    "en": "Heavy thunder rain",
+    "images": {
+      "zh": "preview/1276-night-zh.png",
+      "en": "preview/1276-night-en.png"
+    }
+  },
+  {
+    "id": "1279-day",
+    "code": 1279,
+    "phase": "day",
+    "featured": false,
+    "zh": "雷阵雪",
+    "en": "Snow & thunder",
+    "images": {
+      "zh": "preview/1279-day-zh.png",
+      "en": "preview/1279-day-en.png"
+    }
+  },
+  {
+    "id": "1279-night",
+    "code": 1279,
+    "phase": "night",
+    "featured": false,
+    "zh": "雷阵雪",
+    "en": "Snow & thunder",
+    "images": {
+      "zh": "preview/1279-night-zh.png",
+      "en": "preview/1279-night-en.png"
+    }
+  },
+  {
+    "id": "1282-day",
+    "code": 1282,
+    "phase": "day",
+    "featured": false,
+    "zh": "强雷雪",
+    "en": "Heavy thunder snow",
+    "images": {
+      "zh": "preview/1282-day-zh.png",
+      "en": "preview/1282-day-en.png"
+    }
+  },
+  {
+    "id": "1282-night",
+    "code": 1282,
+    "phase": "night",
+    "featured": false,
+    "zh": "强雷雪",
+    "en": "Heavy thunder snow",
+    "images": {
+      "zh": "preview/1282-night-zh.png",
+      "en": "preview/1282-night-en.png"
+    }
+  },
+  {
+    "id": "unknown-day",
+    "code": null,
+    "phase": "day",
+    "featured": false,
+    "zh": "天气未知",
+    "en": "Unknown weather",
+    "images": {
+      "zh": "preview/unknown-day-zh.png",
+      "en": "preview/unknown-day-en.png"
+    }
+  },
+  {
+    "id": "unknown-night",
+    "code": null,
+    "phase": "night",
+    "featured": false,
+    "zh": "天气未知",
+    "en": "Unknown weather",
+    "images": {
+      "zh": "preview/unknown-night-zh.png",
+      "en": "preview/unknown-night-en.png"
+    }
+  }
+]

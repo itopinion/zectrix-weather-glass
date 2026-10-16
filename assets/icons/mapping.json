@@ -1,0 +1,429 @@
+{
+  "1000": {
+    "family": "clear",
+    "zh": "晴",
+    "en": "Sunny",
+    "day": "1000-day.svg",
+    "night": "1000-night.svg"
+  },
+  "1003": {
+    "family": "partly_cloudy",
+    "zh": "多云",
+    "en": "Partly cloudy",
+    "day": "1003-day.svg",
+    "night": "1003-night.svg"
+  },
+  "1006": {
+    "family": "cloudy",
+    "zh": "阴云",
+    "en": "Cloudy",
+    "day": "1006-day.svg",
+    "night": "1006-night.svg"
+  },
+  "1009": {
+    "family": "overcast",
+    "zh": "阴天",
+    "en": "Overcast",
+    "day": "1009-day.svg",
+    "night": "1009-night.svg"
+  },
+  "1012": {
+    "family": "haze",
+    "zh": "霾",
+    "en": "Haze",
+    "day": "1012-day.svg",
+    "night": "1012-night.svg"
+  },
+  "1015": {
+    "family": "dust_haze",
+    "zh": "浮尘",
+    "en": "Dust haze",
+    "day": "1015-day.svg",
+    "night": "1015-night.svg"
+  },
+  "1018": {
+    "family": "blowing_dust",
+    "zh": "扬尘",
+    "en": "Blowing dust",
+    "day": "1018-day.svg",
+    "night": "1018-night.svg"
+  },
+  "1021": {
+    "family": "dust_storm",
+    "zh": "尘暴",
+    "en": "Dust storm",
+    "day": "1021-day.svg",
+    "night": "1021-night.svg"
+  },
+  "1024": {
+    "family": "sandstorm",
+    "zh": "沙尘暴",
+    "en": "Sandstorm",
+    "day": "1024-day.svg",
+    "night": "1024-night.svg"
+  },
+  "1027": {
+    "family": "severe_sandstorm",
+    "zh": "强沙尘暴",
+    "en": "Severe sandstorm",
+    "day": "1027-day.svg",
+    "night": "1027-night.svg"
+  },
+  "1030": {
+    "family": "mist",
+    "zh": "薄雾",
+    "en": "Mist",
+    "day": "1030-day.svg",
+    "night": "1030-night.svg"
+  },
+  "1033": {
+    "family": "smoke",
+    "zh": "烟雾",
+    "en": "Smoke",
+    "day": "1033-day.svg",
+    "night": "1033-night.svg"
+  },
+  "1036": {
+    "family": "smoky_haze",
+    "zh": "烟霾",
+    "en": "Smoky haze",
+    "day": "1036-day.svg",
+    "night": "1036-night.svg"
+  },
+  "1039": {
+    "family": "smog",
+    "zh": "雾霾",
+    "en": "Smog",
+    "day": "1039-day.svg",
+    "night": "1039-night.svg"
+  },
+  "1042": {
+    "family": "severe_smog",
+    "zh": "重度雾霾",
+    "en": "Severe smog",
+    "day": "1042-day.svg",
+    "night": "1042-night.svg"
+  },
+  "1045": {
+    "family": "saharan_dust",
+    "zh": "沙尘",
+    "en": "Saharan dust",
+    "day": "1045-day.svg",
+    "night": "1045-night.svg"
+  },
+  "1048": {
+    "family": "dust",
+    "zh": "尘埃",
+    "en": "Dust",
+    "day": "1048-day.svg",
+    "night": "1048-night.svg"
+  },
+  "1063": {
+    "family": "patchy_rain",
+    "zh": "局部阵雨",
+    "en": "Patchy rain",
+    "day": "1063-day.svg",
+    "night": "1063-night.svg"
+  },
+  "1066": {
+    "family": "patchy_snow",
+    "zh": "局部阵雪",
+    "en": "Patchy snow",
+    "day": "1066-day.svg",
+    "night": "1066-night.svg"
+  },
+  "1069": {
+    "family": "patchy_sleet",
+    "zh": "局部雨夹雪",
+    "en": "Patchy sleet",
+    "day": "1069-day.svg",
+    "night": "1069-night.svg"
+  },
+  "1072": {
+    "family": "patchy_freezing_drizzle",
+    "zh": "局部冻毛雨",
+    "en": "Freezing drizzle",
+    "day": "1072-day.svg",
+    "night": "1072-night.svg"
+  },
+  "1087": {
+    "family": "thunder",
+    "zh": "雷电",
+    "en": "Thunder possible",
+    "day": "1087-day.svg",
+    "night": "1087-night.svg"
+  },
+  "1114": {
+    "family": "blowing_snow",
+    "zh": "风雪",
+    "en": "Blowing snow",
+    "day": "1114-day.svg",
+    "night": "1114-night.svg"
+  },
+  "1117": {
+    "family": "blizzard",
+    "zh": "暴风雪",
+    "en": "Blizzard",
+    "day": "1117-day.svg",
+    "night": "1117-night.svg"
+  },
+  "1135": {
+    "family": "fog",
+    "zh": "雾",
+    "en": "Fog",
+    "day": "1135-day.svg",
+    "night": "1135-night.svg"
+  },
+  "1147": {
+    "family": "freezing_fog",
+    "zh": "冻雾",
+    "en": "Freezing fog",
+    "day": "1147-day.svg",
+    "night": "1147-night.svg"
+  },
+  "1150": {
+    "family": "patchy_drizzle",
+    "zh": "局部毛毛雨",
+    "en": "Patchy light drizzle",
+    "day": "1150-day.svg",
+    "night": "1150-night.svg"
+  },
+  "1153": {
+    "family": "drizzle",
+    "zh": "毛毛雨",
+    "en": "Light drizzle",
+    "day": "1153-day.svg",
+    "night": "1153-night.svg"
+  },
+  "1168": {
+    "family": "freezing_drizzle",
+    "zh": "冻毛毛雨",
+    "en": "Freezing drizzle",
+    "day": "1168-day.svg",
+    "night": "1168-night.svg"
+  },
+  "1171": {
+    "family": "heavy_freezing_drizzle",
+    "zh": "强冻毛雨",
+    "en": "Heavy icy drizzle",
+    "day": "1171-day.svg",
+    "night": "1171-night.svg"
+  },
+  "1180": {
+    "family": "patchy_rain",
+    "zh": "局部小雨",
+    "en": "Patchy light rain",
+    "day": "1180-day.svg",
+    "night": "1180-night.svg"
+  },
+  "1183": {
+    "family": "light_rain",
+    "zh": "小雨",
+    "en": "Light rain",
+    "day": "1183-day.svg",
+    "night": "1183-night.svg"
+  },
+  "1186": {
+    "family": "patchy_moderate_rain",
+    "zh": "间歇中雨",
+    "en": "Moderate rain",
+    "day": "1186-day.svg",
+    "night": "1186-night.svg"
+  },
+  "1189": {
+    "family": "moderate_rain",
+    "zh": "中雨",
+    "en": "Moderate rain",
+    "day": "1189-day.svg",
+    "night": "1189-night.svg"
+  },
+  "1192": {
+    "family": "patchy_heavy_rain",
+    "zh": "间歇大雨",
+    "en": "Heavy rain",
+    "day": "1192-day.svg",
+    "night": "1192-night.svg"
+  },
+  "1195": {
+    "family": "heavy_rain",
+    "zh": "大雨",
+    "en": "Heavy rain",
+    "day": "1195-day.svg",
+    "night": "1195-night.svg"
+  },
+  "1198": {
+    "family": "light_freezing_rain",
+    "zh": "小冻雨",
+    "en": "Light freezing rain",
+    "day": "1198-day.svg",
+    "night": "1198-night.svg"
+  },
+  "1201": {
+    "family": "heavy_freezing_rain",
+    "zh": "强冻雨",
+    "en": "Heavy icy rain",
+    "day": "1201-day.svg",
+    "night": "1201-night.svg"
+  },
+  "1204": {
+    "family": "light_sleet",
+    "zh": "小雨夹雪",
+    "en": "Light sleet",
+    "day": "1204-day.svg",
+    "night": "1204-night.svg"
+  },
+  "1207": {
+    "family": "heavy_sleet",
+    "zh": "强雨夹雪",
+    "en": "Heavy sleet",
+    "day": "1207-day.svg",
+    "night": "1207-night.svg"
+  },
+  "1210": {
+    "family": "patchy_snow",
+    "zh": "局部小雪",
+    "en": "Patchy light snow",
+    "day": "1210-day.svg",
+    "night": "1210-night.svg"
+  },
+  "1213": {
+    "family": "light_snow",
+    "zh": "小雪",
+    "en": "Light snow",
+    "day": "1213-day.svg",
+    "night": "1213-night.svg"
+  },
+  "1216": {
+    "family": "patchy_moderate_snow",
+    "zh": "局部中雪",
+    "en": "Moderate snow",
+    "day": "1216-day.svg",
+    "night": "1216-night.svg"
+  },
+  "1219": {
+    "family": "moderate_snow",
+    "zh": "中雪",
+    "en": "Moderate snow",
+    "day": "1219-day.svg",
+    "night": "1219-night.svg"
+  },
+  "1222": {
+    "family": "patchy_heavy_snow",
+    "zh": "局部大雪",
+    "en": "Heavy snow",
+    "day": "1222-day.svg",
+    "night": "1222-night.svg"
+  },
+  "1225": {
+    "family": "heavy_snow",
+    "zh": "大雪",
+    "en": "Heavy snow",
+    "day": "1225-day.svg",
+    "night": "1225-night.svg"
+  },
+  "1237": {
+    "family": "ice_pellets",
+    "zh": "冰粒",
+    "en": "Ice pellets",
+    "day": "1237-day.svg",
+    "night": "1237-night.svg"
+  },
+  "1240": {
+    "family": "rain_showers",
+    "zh": "阵雨",
+    "en": "Light rain shower",
+    "day": "1240-day.svg",
+    "night": "1240-night.svg"
+  },
+  "1243": {
+    "family": "heavy_rain_showers",
+    "zh": "强阵雨",
+    "en": "Heavy showers",
+    "day": "1243-day.svg",
+    "night": "1243-night.svg"
+  },
+  "1246": {
+    "family": "torrential_rain",
+    "zh": "暴雨",
+    "en": "Torrential rain",
+    "day": "1246-day.svg",
+    "night": "1246-night.svg"
+  },
+  "1249": {
+    "family": "sleet_showers",
+    "zh": "阵性雨夹雪",
+    "en": "Light sleet showers",
+    "day": "1249-day.svg",
+    "night": "1249-night.svg"
+  },
+  "1252": {
+    "family": "heavy_sleet_showers",
+    "zh": "强阵性雨夹雪",
+    "en": "Heavy sleet",
+    "day": "1252-day.svg",
+    "night": "1252-night.svg"
+  },
+  "1255": {
+    "family": "snow_showers",
+    "zh": "阵雪",
+    "en": "Light snow showers",
+    "day": "1255-day.svg",
+    "night": "1255-night.svg"
+  },
+  "1258": {
+    "family": "heavy_snow_showers",
+    "zh": "强阵雪",
+    "en": "Heavy snow",
+    "day": "1258-day.svg",
+    "night": "1258-night.svg"
+  },
+  "1261": {
+    "family": "ice_showers",
+    "zh": "阵性冰粒",
+    "en": "Ice showers",
+    "day": "1261-day.svg",
+    "night": "1261-night.svg"
+  },
+  "1264": {
+    "family": "heavy_ice_showers",
+    "zh": "强阵性冰粒",
+    "en": "Heavy ice showers",
+    "day": "1264-day.svg",
+    "night": "1264-night.svg"
+  },
+  "1273": {
+    "family": "patchy_thunder_rain",
+    "zh": "雷阵雨",
+    "en": "Rain & thunder",
+    "day": "1273-day.svg",
+    "night": "1273-night.svg"
+  },
+  "1276": {
+    "family": "heavy_thunder_rain",
+    "zh": "强雷雨",
+    "en": "Heavy thunder rain",
+    "day": "1276-day.svg",
+    "night": "1276-night.svg"
+  },
+  "1279": {
+    "family": "patchy_thunder_snow",
+    "zh": "雷阵雪",
+    "en": "Snow & thunder",
+    "day": "1279-day.svg",
+    "night": "1279-night.svg"
+  },
+  "1282": {
+    "family": "heavy_thunder_snow",
+    "zh": "强雷雪",
+    "en": "Heavy thunder snow",
+    "day": "1282-day.svg",
+    "night": "1282-night.svg"
+  },
+  "unknown": {
+    "family": "unknown",
+    "zh": "天气未知",
+    "en": "Unknown weather",
+    "day": "unknown-day.svg",
+    "night": "unknown-night.svg"
+  }
+}
